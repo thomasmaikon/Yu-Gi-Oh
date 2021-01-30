@@ -1,6 +1,6 @@
 
 ## Objetivo
-Utilizar as estruturas de dados conhecidas(fila e lista encadeada) em um sistema que fosse utilizavel, nesse caso, foi utilizado um jogo.  
+Utilizar as estruturas de dados conhecidas(fila e lista encadeada) em um sistema que fosse utilizavel, nesse caso, um jogo.  
 
 ## :rocket: Ferramentas utilizadas
 - allegro_monolith-5.2.dll
