@@ -14,7 +14,7 @@ ele gera erro.
 Instale a biblioteca do Allegro, a versao utilizada foi 5.2.2  
 link-> [allegro](https://github.com/liballeg/allegro5/releases)
 
-## Installation
+## Instalação
 
 ---
 
