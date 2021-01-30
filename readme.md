@@ -1,18 +1,30 @@
-## Installation
 
-Instale a biblioteca do Allegro, a versao utilizada foi 5.2.2
+## Objetivo
+Utilizar as estruturas de dados conhecidas(fila e lista encadeada) em um sistema que fosse utilizavel, nesse caso, foi utilizado um jogo.  
+
+## :rocket: Ferramentas utilizadas
+- allegro_monolith-5.2.dll
+- Linguagem C
+- DevC++
+
+## :warning: OBS
+O seu codigo so pode funcionar se tiver o arquivo **allegro_monolith-5.2.dll** (essa foi a versao utilizada por mim), caso nao possua o arquivo
+ele gera erro.    
+
+Instale a biblioteca do Allegro, a versao utilizada foi 5.2.2  
 link-> [allegro](https://github.com/liballeg/allegro5/releases)
 
+## Installation
 
-## Usage
-Para executar o arquivo em seu computador Windows, configure o anbiente do DevC++
+---
 
-Configurando Allegro no Windows:
-1- Extraia o arquivo baixado da sua versao do allegro
+### Configurando Allegro no Windows:
+1- Extraia o arquivo baixado da sua versao do allegro  
 
-2- Copie o arquivo extraido para o Disco local C:
+2- Copie o arquivo extraido para o Disco local `\C:`  
 
-Configurando Allegro no DevC++:
+### Configurando Allegro no DevC++  
+
 1- Crie um novo codigo Fonte
 
 2- Ferramentas -> Opcoes do Compilador
@@ -22,6 +34,3 @@ Configurando Allegro no DevC++:
 4- Diretorios -> Bibliotecas -> Adicione o seguinte caminho: `C:\allegro\lib`
 
 5- Diretorios -> C Includes -> Adicione o seguinte caminho: `C:\allegro\include`
-
-O seu codigo so pode funcionar se tiver o arquivo 'allegro_monolith-5.2.dd'(Minha versao do allegro), caso nao possua o arquivo
-ele gera erro.
