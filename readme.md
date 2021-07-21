@@ -34,3 +34,6 @@ link-> [allegro](https://github.com/liballeg/allegro5/releases)
 4- Diretorios -> Bibliotecas -> Adicione o seguinte caminho: `C:\allegro\lib`
 
 5- Diretorios -> C Includes -> Adicione o seguinte caminho: `C:\allegro\include`
+
+
+Referencia: https://www.youtube.com/watch?v=lwscVtIUy6k
